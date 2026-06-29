@@ -22,9 +22,9 @@ st.header("Información del proyecto")
 
 st.markdown("""
 **Materia:** Minería de Datos I  
-**Integrantes:** [Completar integrantes]  
-**Comisión:** [Completar comisión]  
-**Fecha:** Junio 2026  
+**Integrantes:** Sayago, Facundo / Umbides, Luis Fernando  
+**Comisión:** Turno Tardde  
+**Fecha:** 29/06/2026  
 """)
 
 st.markdown("---")
@@ -40,8 +40,8 @@ st.markdown("---")
 st.header("Enlaces")
 
 st.markdown("""
-- **Repositorio GitHub:** [Ver repositorio](https://github.com/rapazxc/PI_Mineria_Datos_1)
-- **Aplicación Streamlit:** [Abrir aplicación](https://pimineriadatos1-tqsw3bdv3lqgxtqkwaqpti.streamlit.app/)
+- **Repositorio GitHub:** [Ver repositorio](https://github.com/LuisUmb87/PI_Mineria_Datos_1)
+- **Aplicación Streamlit:** [Abrir aplicación](https://pimineriadatos1-borra7mdwtmxqenpjdhcbq.streamlit.app/)
 - **Informe final:** `reports/informe_final.pdf`
 - **Log ETL:** `logs/pipeline_log.csv`
 """)
