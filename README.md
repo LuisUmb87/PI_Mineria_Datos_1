@@ -112,6 +112,7 @@ Incluye secciones para presentar el dataset, el análisis exploratorio, PCA y co
 La aplicación comunica los resultados principales para público general y no reemplaza la evidencia técnica del repositorio.
 
 Aplicación Streamlit: https://pimineriadatos1-borra7mdwtmxqenpjdhcbq.streamlit.app
+
 Repositorio GitHub: https://github.com/LuisUmb87/PI_Mineria_Datos_1
 
 ## Cómo ejecutar localmente
