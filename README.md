@@ -9,9 +9,12 @@ Se analiza un dataset de usuarios de una plataforma de streaming mediante un pro
 
 El trabajo conserva el dataset original sin modificaciones y genera una versión procesada para el análisis.
 
-Repositorio GitHub: https://github.com/rapazxc/PI_Mineria_Datos_1
-Aplicación Streamlit: https://pimineriadatos1-tqsw3bdv3lqgxtqkwaqpti.streamlit.app/
+Repositorio GitHub: https://github.com/LuisUmb87/PI_Mineria_Datos_1
+
+Aplicación Streamlit: https://pimineriadatos1-borra7mdwtmxqenpjdhcbq.streamlit.app/
+
 Informe final: `reports/informe_final.pdf`
+
 Log ETL: `logs/pipeline_log.csv`
 
 ## Objetivo del proyecto
@@ -108,8 +111,8 @@ Incluye secciones para presentar el dataset, el análisis exploratorio, PCA y co
 
 La aplicación comunica los resultados principales para público general y no reemplaza la evidencia técnica del repositorio.
 
-Aplicación Streamlit: https://pimineriadatos1-tqsw3bdv3lqgxtqkwaqpti.streamlit.app/
-Repositorio GitHub: https://github.com/rapazxc/PI_Mineria_Datos_1
+Aplicación Streamlit: https://pimineriadatos1-borra7mdwtmxqenpjdhcbq.streamlit.app
+Repositorio GitHub: https://github.com/LuisUmb87/PI_Mineria_Datos_1
 
 ## Cómo ejecutar localmente
 
